@@ -1,13 +1,8 @@
-
-[![build status](https://gitlab.tubit.tu-berlin.de/anton.rudacov/aal-ss18-group3/badges/master/build.svg)](https://gitlab.tubit.tu-berlin.de/anton.rudacov/aal-ss18-group3/commits/master)
-[![coverage report](https://gitlab.tubit.tu-berlin.de/anton.rudacov/aal-ss18-group3/badges/master/coverage.svg)](https://gitlab.tubit.tu-berlin.de/anton.rudacov/aal-ss18-group3/commits/master)
-
-
-# IOLite App
+# IOLite App (Data Engine UI)
 
 Modul Ambient Assisted Living (BINF-SWT-AAL), summer term 2018, group 3.
 
-(Original project home: [https://gitlab.tubit.tu-berlin.de/anton.rudacov/aal-ss18-group3](https://gitlab.tubit.tu-berlin.de/anton.rudacov/aal-ss18-group3))
+(Original project home: [https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface](https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface))
  
   
 ## Features
@@ -22,10 +17,15 @@ Modul Ambient Assisted Living (BINF-SWT-AAL), summer term 2018, group 3.
  
 ## Built With
 
-* [GitLab](https://about.gitlab.com/) - Git repository manager, wiki, issue tracking and CI/CD
+* [React](https://reactjs.org/) - JavaScript library for building user interfaces
+* [Babel](https://babeljs.io/) - JavaScript compiler
+* [webpack](https://webpack.js.org/) - JavaScript bundler
+* [npm](https://www.npmjs.com/) - package manager for JavaScript 
+* [Spring](https://spring.io/) - Java application framework
 * [Maven](https://maven.apache.org/) - Build automation tool and dependency management
-* more TODO
- 
+* [GitLab](https://about.gitlab.com/) - Git repository manager, wiki, issue tracking and CI/CD
+
+
 ## Authors
 
 * Anton Rudacov
