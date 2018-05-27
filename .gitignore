@@ -6,7 +6,6 @@ bundle.js.map
 # Maven
 target/
 *.releaseBackup
-*.properties
 
 # Compiled class file
 *.class
@@ -19,10 +18,7 @@ target/
 log/
 logs/
 
-# Package Files
-*.jar
-*.war
-*.ear
+# Archive Files
 *.zip
 *.tar.gz
 *.rar
