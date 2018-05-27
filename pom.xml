@@ -26,7 +26,7 @@
 
   <dependencies>
 
-		<!-- Spring Boot-->
+    <!-- Spring Boot-->
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-thymeleaf</artifactId>
@@ -70,6 +70,20 @@
       <groupId>de.iolite.app.api</groupId>
       <artifactId>app-apis</artifactId>
       <version>0.1-SNAPSHOT</version>
+      <scope>provided</scope>
+    </dependency>
+
+    <!-- Logging -->
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.25</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-classic</artifactId>
+      <version>1.2.3</version>
       <scope>provided</scope>
     </dependency>
 
