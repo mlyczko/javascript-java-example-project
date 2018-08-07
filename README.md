@@ -1,8 +1,6 @@
 # JavaScript-Java example project
 
-This project is the initial part of our work for the module Ambient Assisted Living at Technical University of Berlin, summer term 2018.
-
-(Original project home: [https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface](https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface))
+This project is the initial part of our work for the module Ambient Assisted Living at Technical University of Berlin, summer term 2018. (Original project home: [https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface](https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface))
  
 You can use this code as an example for a combined JavaScript-Java project based on Maven.
 
