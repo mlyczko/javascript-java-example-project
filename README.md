@@ -35,6 +35,8 @@ Just run `./mvnw package` to build the project.
 
 * **Anton Rudacov** - [@antonrud](https://github.com/antonrud)
 * **Daniel Sebastian Lienau** [@dslienau](https://github.com/dslienau)
+* **Daniel Yermakov** - [@yermakov_d](https://gitlab.tubit.tu-berlin.de/yermakov_d)
+* **Tom Gill** - [@gilltom86](https://gitlab.tubit.tu-berlin.de/gilltom86)
 
 
 ## License
