@@ -29,7 +29,6 @@ Just run `./mvnw package` to build the project.
 * [webpack](https://webpack.js.org/) - JavaScript bundler
 * [npm](https://www.npmjs.com/) - package manager for JavaScript 
 * [Maven](https://maven.apache.org/) - Build automation tool and dependency management
-* [GitLab](https://about.gitlab.com/) - Git repository manager, wiki, issue tracking and CI/CD
 
 
 ## Authors
