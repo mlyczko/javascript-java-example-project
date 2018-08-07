@@ -1,4 +1,4 @@
-package de.tuberlin.tubit.gitlab.aalss18;
+package com.github.antonrud;
 
 import static org.junit.Assert.assertTrue;
 
