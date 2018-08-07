@@ -36,7 +36,7 @@
           <include>dist/*</include>
         </includes>
       </resource>
-      <!-- Add IOLITEApp.xml descriptor to classpath -->
+      <!-- Add resources to classpath -->
       <resource>
         <directory>src/main/resources</directory>
       </resource>
