@@ -7,8 +7,8 @@ This project is the initial part of our work for the module Ambient Assisted Liv
 You can use this code as an example for a combined JavaScript-Java project based on Maven.
 
 npm and Webpack are already configured for React-Babel-Bootstrap development.
-Java classes could be placed into src/main and src/test.
-You can run ./mvnw package to create a JAR with Java and JavaScript classes inside (you probably should configure pom.xml to serve your needs).
+Java classes could be placed into `src/main/java` and `src/test/java`.
+You can run `./mvnw package` to create a JAR with Java and JavaScript classes inside (you probably should configure pom.xml to serve your needs).
 
   
 ## How to use
