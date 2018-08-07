@@ -1,7 +1,7 @@
 {
-  "name": "data-engine-user-interface",
+  "name": "javascript-java-example-project",
   "version": "0.1.0",
-  "description": "Modul Ambient Assisted Living (BINF-SWT-AAL), summer term 2018, group 3",
+  "description": "Example for a combined JavaScript-Java project based on Maven",
   "author": "Anton Rudacov, Daniel Yermakov, Daniel Sebastian Lienau, Tom Gill",
   "license": "MIT",
   "babel": {
