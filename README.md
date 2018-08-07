@@ -33,10 +33,8 @@ Just run `./mvnw package` to build the project.
 
 ## Authors
 
-* Anton Rudacov
-* Daniel Yermakov
-* Daniel Sebastian Lienau 
-* Tom Gill
+* **Anton Rudacov** - [@antonrud](https://github.com/antonrud)
+* **Daniel Sebastian Lienau** [@dslienau](https://github.com/dslienau)
 
 
 ## License
