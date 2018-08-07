@@ -1,27 +1,20 @@
-#### You can take a look at our current state here: 
-[http://217.163.23.24:9999](http://217.163.23.24:9999)  (obtain [credentials](https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface/issues/2))
+# JavaScript-Java example project
 
-<br />
-
-[![build status](https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface/badges/dev/build.svg)](https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface/commits/dev)
-
-
-# IOLite App (Data Engine UI)
-
-Modul Ambient Assisted Living (BINF-SWT-AAL), summer term 2018, group 3.
+This project is the initial part of our work for the module Ambient Assisted Living at Technical University of Berlin, summer term 2018.
 
 (Original project home: [https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface](https://gitlab.tubit.tu-berlin.de/aal-ss-18/data-engine-user-interface))
  
-  
-## Features
+You can use this code as an example for a combined JavaScript-Java project based on Maven.
 
-* TODO
- 
- 
+npm and Webpack are already configured for React-Babel-Bootstrap development.
+Java classes could be placed into src/main and src/test.
+You can run ./mvnw package to create a JAR with Java and JavaScript classes inside (you probably should configure pom.xml to serve your needs).
+
+  
 ## How to use
 
 ### Development
-First run `npm install` to install all needed modules for development, and then run `npm run server` to start the local development webserver. Once the bundle is packed, the Browser will open the URL automatically. Furthermore, it will automatically repack and refresh the webpage as soon any filechanges are detected.
+First run `npm install` to install all needed modules for development, and then run `npm run server` to start the local development webserver. Once the bundle is packed, the Browser will open the URL automatically. Furthermore, it will automatically repack and refresh the webpage as soon any file changes are detected.
 
 ### Build
 You can use attached [Maven Wrapper](https://github.com/takari/maven-wrapper) to build this project. No actual Maven installation is needed on your system (however you need JDK 8 to be installed).
