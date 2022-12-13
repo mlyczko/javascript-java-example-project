@@ -4,7 +4,6 @@
   "ignorePresets": [":prHourlyLimit2"],
   "packageRules": [
     {
-      "matchDepTypes": ["devDependencies"],
       "matchUpdateTypes": ["major", "minor", "patch", "pin", "digest"],
       "automerge": true
     }
