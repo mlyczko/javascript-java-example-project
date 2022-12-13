@@ -10,6 +10,5 @@
     }
   ],
   "automergeType": "pr",
-  "automergeStrategy": "squash",
   "ignoreTests": true
 }
