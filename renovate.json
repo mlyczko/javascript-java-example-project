@@ -9,6 +9,6 @@
     }
   ],
   "automergeType": "pr",
-  "automergeStrategy": "fast-forward",
+  "automergeStrategy": "merge-commit",
   "ignoreTests": true
 }
