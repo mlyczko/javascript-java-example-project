@@ -9,6 +9,6 @@
     }
   ],
   "automergeType": "pr",
-  "automergeStrategy": "merge-commit",
+  "automergeStrategy": "rebase",
   "ignoreTests": true
 }
