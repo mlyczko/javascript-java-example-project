@@ -9,6 +9,6 @@
     }
   ],
   "automergeType": "pr",
-  "automergeStrategy": "rebase",
+  "automergeStrategy": "squash",
   "ignoreTests": true
 }
